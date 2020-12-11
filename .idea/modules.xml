@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1563291003/Network Switcher-app.iml" filepath="$PROJECT_DIR$/.idea/modules/1563291003/Network Switcher-app.iml" group="Network Switcher/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1020818025/Network_Switcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1020818025/Network_Switcher.iml" group="Network_Switcher" />
+    </modules>
+  </component>
+</project>
