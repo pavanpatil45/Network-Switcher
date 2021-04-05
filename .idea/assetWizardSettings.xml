@@ -62,6 +62,18 @@
                                 <PersistentState>
                                   <option name="children">
                                     <map>
+                                      <entry key="backgroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="imagePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
+                                                <entry key="scalingPercent" value="1" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="foregroundClipArt">
                                         <value>
                                           <PersistentState>
@@ -80,8 +92,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="$PROJECT_DIR$/../../../network.png" />
-                                                <entry key="scalingPercent" value="99" />
+                                                <entry key="imagePath" value="$PROJECT_DIR$/../../../android copy.png" />
+                                                <entry key="scalingPercent" value="97" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -114,7 +126,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="00c2ff" />
+                                      <entry key="backgroundColor" value="5490ff" />
                                     </map>
                                   </option>
                                 </PersistentState>
