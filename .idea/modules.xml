@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2128107261/Network-Switcher.iml" filepath="$PROJECT_DIR$/.idea/modules/2128107261/Network-Switcher.iml" group="Network-Switcher" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/482437135/Network-Switcher-app.iml" filepath="$PROJECT_DIR$/.idea/modules/482437135/Network-Switcher-app.iml" group="Network-Switcher/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GIT UPLOAD.Network-Switcher.iml" filepath="$PROJECT_DIR$/.idea/modules/GIT UPLOAD.Network-Switcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Network-Switcher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Network-Switcher.app.iml" />
     </modules>
   </component>
 </project>
